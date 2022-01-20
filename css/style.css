@@ -1,0 +1,27 @@
+* {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}   
+
+h5 {
+    font-size: 1em;
+}
+
+.container-fluid {
+    margin-left: 80px;
+
+}
+.hero-content {
+    margin-top: 90px;
+    margin-left: 100px;
+}
+.carousel {
+    margin-right: 30px;
+}
